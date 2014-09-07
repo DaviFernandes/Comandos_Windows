@@ -1,0 +1,8 @@
+data = data
+start = abrir 
+firewall  show config = configuração firewall
+start nsconfig = configuração sistema
+tree = visualizar pastar ocultas
+cd = abrir pasta
+dir = visualizar arquivos
+cls = limpar a tela
