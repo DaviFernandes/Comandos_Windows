@@ -6,3 +6,4 @@ tree = visualizar pastar ocultas
 cd = abrir pasta
 dir = visualizar arquivos
 cls = limpar a tela
+exit = sair
